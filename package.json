@@ -1,0 +1,28 @@
+{
+  "name": "text-animation.css",
+  "version": "1.0.0",
+  "description": "A cross-browser library of text CSS animations.",
+  "main": "animate.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "animateConfig": {
+    "prefix": "text__"
+  },
+  "style": "./animate.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaleyRyu/text-animation.css.git"
+  },
+  "keywords": [
+    "css",
+    "animation",
+    "js"
+  ],
+  "author": "Haley Ryu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaleyRyu/text-animation.css/issues"
+  },
+  "homepage": "https://github.com/HaleyRyu/text-animation.css#readme"
+}
