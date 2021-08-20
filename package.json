@@ -1,6 +1,6 @@
 {
   "name": "text-animation.css",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A cross-browser library of text CSS animations.",
   "main": "animate.css",
   "scripts": {
